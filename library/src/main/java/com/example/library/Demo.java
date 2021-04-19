@@ -1,6 +1,6 @@
 package com.example.library;
 
-public class demo {
+public class Demo {
 
     String name;
     String role;
